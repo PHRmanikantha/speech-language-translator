@@ -51,14 +51,15 @@ python src/language_translator.py
 
 ## 📸 Screenshots
 Add your app screenshots here:
-- `assets/screenshots/speech_to_text_output.png`
-- `assets/screenshots/language_translator_output.png`
+-<img width="542" height="568" alt="image" src="https://github.com/user-attachments/assets/26c066a8-a178-433c-8a5a-cf0d6dc80f74" />
+
+- <img width="546" height="572" alt="image" src="https://github.com/user-attachments/assets/0c0c9a3e-4744-4a91-8170-3523235e0689" />
+
 
 ---
 
 ## 🤝 Contributors
 - **Krishna Bhammar**
-- **Mayank Patel**
 - **P.H.R. Manikantha**
 
 ---
